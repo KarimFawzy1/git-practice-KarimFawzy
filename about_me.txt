@@ -1,0 +1,3 @@
+Name: Karim Fawzy
+Hobbies: Swimming
+Goals: Become a Flutter Developer
